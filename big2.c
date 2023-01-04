@@ -18,6 +18,3 @@ biggest2()
 
   // return 0;
 }
-~
-
-
